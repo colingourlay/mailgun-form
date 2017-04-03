@@ -1,0 +1,15 @@
+{
+  "name": "mailgun-form",
+  "version": "1.0.0",
+  "description": "Forward any POST data to an email address, using mailgun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mailgun-js": "^0.9.1",
+    "querystring": "^0.2.0"
+  }
+}
